@@ -1,7 +1,9 @@
 
-<h1 align="center">Hi 👋, I'm Jayanti Rani Mahata</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Jayanti Rani Mahata</h1>
 <h3 align="center">Just a humble learner :-D</h3>
+<hr>
 <p align="center"><img alt="GIF" src="https://github.com/Jayanti-Mahata/Jayanti-Mahata/blob/main/Items/Welcome.gif?raw=true" width="800" height="300" /></p>
+<hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayanti-mahata&label=Profile%20views&color=0e75b6&style=flat" alt="jayanti-mahata" /> </p>
 
 - 🔭I'm currently pursuing B.Tech in Computer Science!
