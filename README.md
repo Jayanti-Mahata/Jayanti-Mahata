@@ -4,6 +4,8 @@
 <hr>
 <p align="center"><img alt="GIF" src="https://github.com/Jayanti-Mahata/Jayanti-Mahata/blob/main/Items/Welcome.gif?raw=true" width="800" height="300" /></p>
 <hr>
+
+<p align="left"><img src="https://github.com/Jayanti-Mahata/Jayanti-Mahata/blob/main/Items/github.gif?raw=true" height=180 width=200 align="right"></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayanti-mahata&label=Profile%20views&color=0e75b6&style=flat" alt="jayanti-mahata" /> </p>
 
 - 🔭I'm currently pursuing B.Tech in Computer Science!
