@@ -4,7 +4,7 @@
 <hr>
 <p align="center"><img alt="GIF" src="https://github.com/Jayanti-Mahata/Jayanti-Mahata/blob/main/Items/Welcome.gif?raw=true" width="800" height="300" /></p>
 <hr >
-<a> <img align="right" src="https://github.com/Jayanti-Mahata/Jayanti-Mahata/blob/main/Items/github.gif" alt="jayanti-mahata" height=47% width=47% /> </a>
+<!-- <a> <img align="right" src="https://github.com/Jayanti-Mahata/Jayanti-Mahata/blob/main/Items/github.gif" alt="jayanti-mahata" height=47% width=47% /> </a> -->
 <p align="left"><img src="https://komarev.com/ghpvc/?username=jayanti-mahata&label=Profile%20views&color=0e75b6&style=flat" alt="jayanti-mahata" /> </p>
 
 - 🔭I'm currently pursuing B.Tech in Computer Science!
